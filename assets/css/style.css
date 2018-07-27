@@ -1092,8 +1092,10 @@ padding-bottom:30px;
   width:100%;
   padding-top:5px;
 }
-
-
+.header__logo-box{
+  width:80%;
+  height: inherit;
+}
 
 
 
